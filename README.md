@@ -25,4 +25,3 @@ The most successful Kickstarter campaigns have their goals less than 1000. And c
 
 - There are some large funding goals in the dataset, which are outliers for the analysis that are for theater-building proposals. Louise just wants funding for her play, not a theater.
 
-- What are some other possible tables and/or graphs that we could create?
